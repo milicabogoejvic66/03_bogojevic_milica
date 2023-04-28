@@ -1,4 +1,4 @@
-a=int(input("prvi broj:"))
-b=int(input("drugi broj:"))
-c=a+b
-print(c)
+x=int(input("unesi neki broj"))
+y=int(input("unesi neki broj"))
+z=x+y #ovo je komentar
+print(f"{x}+{y}={z}")
